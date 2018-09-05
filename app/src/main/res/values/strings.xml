@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="edit_message">New Folder Name</string>
+    <string name="NameFolder">Set Name</string>
+    <string name="Label"><u>Folder Name:</u></string>
+    <string name="FolderName">Untitled Folder</string>
+    <string name="title_activity_folder_test">FolderTest</string>
+    <string name="NAME">Untitled Folder</string>
+</resources>
